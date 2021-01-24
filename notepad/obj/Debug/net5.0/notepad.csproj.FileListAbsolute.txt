@@ -1,0 +1,16 @@
+/home/blue/data/virtualMachines/windows_10/shared/notepad/obj/Debug/net5.0/notepad.csprojAssemblyReference.cache
+/home/blue/data/virtualMachines/windows_10/shared/notepad/obj/Debug/net5.0/notepad.GeneratedMSBuildEditorConfig.editorconfig
+/home/blue/data/virtualMachines/windows_10/shared/notepad/obj/Debug/net5.0/notepad.AssemblyInfoInputs.cache
+/home/blue/data/virtualMachines/windows_10/shared/notepad/obj/Debug/net5.0/notepad.AssemblyInfo.cs
+/home/blue/data/virtualMachines/windows_10/shared/notepad/obj/Debug/net5.0/notepad.csproj.CoreCompileInputs.cache
+/home/blue/data/virtualMachines/windows_10/shared/notepad/bin/Debug/net5.0/notepad
+/home/blue/data/virtualMachines/windows_10/shared/notepad/bin/Debug/net5.0/notepad.deps.json
+/home/blue/data/virtualMachines/windows_10/shared/notepad/bin/Debug/net5.0/notepad.runtimeconfig.json
+/home/blue/data/virtualMachines/windows_10/shared/notepad/bin/Debug/net5.0/notepad.runtimeconfig.dev.json
+/home/blue/data/virtualMachines/windows_10/shared/notepad/bin/Debug/net5.0/notepad.dll
+/home/blue/data/virtualMachines/windows_10/shared/notepad/bin/Debug/net5.0/ref/notepad.dll
+/home/blue/data/virtualMachines/windows_10/shared/notepad/bin/Debug/net5.0/notepad.pdb
+/home/blue/data/virtualMachines/windows_10/shared/notepad/obj/Debug/net5.0/notepad.dll
+/home/blue/data/virtualMachines/windows_10/shared/notepad/obj/Debug/net5.0/ref/notepad.dll
+/home/blue/data/virtualMachines/windows_10/shared/notepad/obj/Debug/net5.0/notepad.pdb
+/home/blue/data/virtualMachines/windows_10/shared/notepad/obj/Debug/net5.0/notepad.genruntimeconfig.cache
