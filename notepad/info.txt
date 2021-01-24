@@ -1,1 +1,0 @@
-actually a placeholder, but this C# project will launch notepad.exe, but it can be modified to launch basically whatever you want.
